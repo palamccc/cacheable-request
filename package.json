@@ -48,7 +48,7 @@
 		"pify": "^3.0.0",
 		"sqlite3": "^4.0.1",
 		"this": "^1.0.2",
-		"xo": "*"
+		"xo": ">=0.22.0"
 	},
 	"xo": {
 		"extends": "xo-lukechilds"
