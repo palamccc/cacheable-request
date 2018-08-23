@@ -10,6 +10,8 @@ const lowercaseKeys = require('lowercase-keys');
 const cloneResponse = require('clone-response');
 const Keyv = require('keyv');
 
+console.log('-------yeah');
+
 class CacheableRequest {
 	constructor(request, cacheAdapter) {
 		if (typeof request !== 'function') {
